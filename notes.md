@@ -26,6 +26,8 @@ WTF?
 
 Useful vs principle of least surprise vs what a mathematician should expect vs notation issues vs...
 
+https://twitter.com/freakboy3742/status/1000712928616681472
+
 ## Unicode
 
 One in a million
