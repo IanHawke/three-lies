@@ -35,3 +35,21 @@ One in a million
 Greek letters, doesn't cover all.
 
 Internationalisation vs inclusion vs tooling problems vs standard practice.
+
+# Maths vs programming
+
+https://j2kun.svbtle.com/programming-is-not-math-huh
+
+argues against
+
+http://www.sarahmei.com/blog/2014/07/15/programming-is-not-math/
+
+Follow link to
+
+http://confreaks.tv/videos/gogaruco2012-why-is-a-math-proof-like-a-unit-test
+
+Notation issues:
+
+https://twitter.com/dantwohundred/status/904697259345969152?lang=en
+
+https://jeremykun.com/2018/04/13/for-mathematicians-does-not-mean-equality/
