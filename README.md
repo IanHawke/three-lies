@@ -7,6 +7,7 @@ Potential talk on teaching.
 1. How `import` works;
 2. Why you should(n't) use chained comparisons (a < b < c);
 3. Why you should(n't) use Unicode.
+4. Is matching to mathematics the goal?
 
 ## Purpose
 
